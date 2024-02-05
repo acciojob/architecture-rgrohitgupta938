@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+	background-color:lightcoral;
+}
+.t1{
+	width:200px;
+}
+.t2{
+	width:600px;
+}
